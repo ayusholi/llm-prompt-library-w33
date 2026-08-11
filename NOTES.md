@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-08-11T13:00:01.054Z
+Session: 2026-08-11T13:00:01.054Z
 
-## Progress
+## Summary
 
-- move constants to dedicated config file
+- update CI workflow triggers

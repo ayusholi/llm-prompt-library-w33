@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-08-12T13:00:01.198Z
+Session: 2026-08-12T13:00:01.198Z
 
-## Progress
+## Summary
 
-- split large module into smaller ones
+- add setup and installation guide

@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- extract helper functions to utils
-- Updated: 2026-08-19T13:00:01.595Z
+- mock external dependencies in tests
+- Build: 2026-08-19T13:00:01.595Z

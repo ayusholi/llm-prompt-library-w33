@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- mock external dependencies in tests
-- Build: 2026-08-19T13:00:01.595Z
+- handle empty response gracefully
+- Updated: 2026-08-20T13:00:01.249Z
